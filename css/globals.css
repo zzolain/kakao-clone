@@ -1,0 +1,10 @@
+body {
+    overflow-x: hidden;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 100%;
+    max-width: 400px;
+    height: 100vh;
+    position: relative;
+}
